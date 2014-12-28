@@ -1,0 +1,6 @@
+.idea
+gen
+out
+OpenGLFlag.iml
+build.xml
+local.properties
