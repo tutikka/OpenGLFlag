@@ -15,7 +15,7 @@ Video
 
 You can download the video using the link below, or try to copy/paste it in to your favourite media player.
 
-[Link to video](/video/openglflag.mp4)
+[Link to video](https://github.com/tutikka/OpenGLFlag/raw/master/video/openglflag.mp4)
 
 Credits
 -------
